@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "canonicalRecords": "shortcuts.js",
+  "requiredFields": ["environment", "target", "category", "keys", "description", "action"],
+  "keyTokens": ["SUPER", "CTRL", "ALT", "SHIFT", "ENTER", "ESC", "SPACE"]
+}
